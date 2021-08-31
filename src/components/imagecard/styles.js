@@ -14,5 +14,5 @@ export const CardImage = styled.div `
 export const Title = styled.span `
     font-family:${props=>props.theme.fonts.regular};
     font-size:16px;
-    color:${props=> props.theme.colors.textcolor_dark};
+    color:${props=> props.theme.colors.textcolor_light};
 `;
